@@ -1,4 +1,5 @@
-input = gets.to_i
-input.times do
+
+num = gets.to_i
+num.times do
     puts "paiza"
 end
